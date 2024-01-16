@@ -1,6 +1,9 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%15C2E1 ;&size=30&center=true&vCenter=true&width=450&lines=Customer Response Anticipation for Long-Term Deposit Marketing Campaign"></a>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FFA500&size=30&center=true&vCenter=true&width=600&lines=Customer Response Anticipation for Long-Term Deposit Marketing Campaign">
+    </a>
 </div>
+
 
 
 ## Overview
